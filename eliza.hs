@@ -7,9 +7,8 @@
  -}
 
 
-import Char
-import Maybe
-import Random
+import Data.Char
+import System.Random
 
 {- Change perspective substitutes "you" for "i" and so on to change
    the perspective of a sentence fragment -}
